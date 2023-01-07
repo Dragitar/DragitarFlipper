@@ -1,10 +1,10 @@
 # DragitarFlipper
 fully afk auction flipper on Hypixel Skyblock.
 
-go to Run
-Type %appdata%
-Go to .minecraft
-make a mods folder in there
-put the mod in the mods folder
-get forge 1.8.9
-launch
+1 go to Run
+2 Type %appdata%
+3 Go to .minecraft
+4 make a mods folder in there
+5 put the mod in the mods folder
+6 get forge 1.8.9
+7 launch
